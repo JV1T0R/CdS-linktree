@@ -82,6 +82,7 @@ body {
                     align-items: center;
 
                     img {
+                        width: 40px;
                         margin-left: 3em;
 
                         @include mixins.mobile-sm {

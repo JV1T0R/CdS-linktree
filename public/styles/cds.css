@@ -79,6 +79,7 @@ body .container section button .button-content {
   align-items: center;
 }
 body .container section button .button-content img {
+  width: 40px;
   margin-left: 3em;
 }
 @media (max-width: 374px) and (min-width: 320px) {
