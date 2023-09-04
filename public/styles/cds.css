@@ -73,6 +73,7 @@ body .container section button {
 body .container section button:hover, body .container section button:active {
   cursor: pointer;
   box-shadow: 4px 10px 10px black;
+  transition: 0.4s;
 }
 body .container section button .button-content {
   display: grid;

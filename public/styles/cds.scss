@@ -74,7 +74,8 @@ body {
 
                 &:hover, &:active {
                     cursor: pointer;
-                    box-shadow: 4px 10px 10px variables.$shadows;  
+                    box-shadow: 4px 10px 10px variables.$shadows;
+                    transition: 0.4s;  
                 }
 
                 .button-content {
